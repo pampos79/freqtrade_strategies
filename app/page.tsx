@@ -13,6 +13,7 @@ import { PerformanceChart } from "@/components/dashboard/performance-chart";
 import { RecentTrades } from "@/components/dashboard/recent-trades";
 import { ActiveStrategies } from "@/components/dashboard/active-strategies";
 
+// Dashboard Page
 export default function DashboardPage() {
   return (
     <div className="flex min-h-screen bg-background">
